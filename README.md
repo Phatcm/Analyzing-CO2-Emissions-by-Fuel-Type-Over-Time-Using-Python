@@ -8,6 +8,9 @@ This project analyzes carbon dioxide (CO2) emissions from various fuel types ove
 - Analyze seasonal patterns in emissions over time.
 - Forecast future CO2 emissions to understand potential environmental impacts.
 
+## Medium Blog Post
+Here is the Medium blog post: https://medium.com/@phat.caominh.dev/analyzing-co2-emissions-by-fuel-type-over-time-using-python-403d8f4f58de
+
 ## Dataset
 The dataset used in this project is `CO2_T12_06.csv`, which contains monthly CO2 emissions data categorized by fuel type. The dataset includes the following columns:
 - **YYYYMM**: Year and month of the observation (YYYYMM format)
